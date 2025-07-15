@@ -132,7 +132,7 @@ def show_model():
 # GUI
 root = tk.Tk()
 root.title('3D калькулятор')
-root.geometry('750x600')
+root.geometry('500x500')
 frame = tk.Frame(root, bg='#f9f9f9', padx=20, pady=20)
 frame.pack(fill='both', expand=True)
 
